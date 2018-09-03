@@ -1,0 +1,2 @@
+# zzMinerZech
+AMD Miner release
