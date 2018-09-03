@@ -1,2 +1,2 @@
 # zzMinerZech
-AMD Miner release
+AMD Miner release by DrZech
